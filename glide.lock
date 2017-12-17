@@ -1,0 +1,6 @@
+hash: d3b0b56bfa93c40486432c49e21744cee87dbb8d5aa6840019fe2b7ddd6b2e02
+updated: 2017-12-17T12:38:42.222947858+01:00
+imports:
+- name: github.com/nu7hatch/gouuid
+  version: 179d4d0c4d8d407a32af483c2354df1d2c91e6c3
+testImports: []
